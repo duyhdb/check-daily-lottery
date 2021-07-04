@@ -1,5 +1,5 @@
 # Check Daily Lottery ― Crawler
-Check daily drawings (lottery) from ketqua.net
+Check daily drawings (lottery) from ketqua1.net
 
 ## Table of Contents
 * [General info](#general-info)
