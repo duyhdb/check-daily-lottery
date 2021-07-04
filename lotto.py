@@ -22,7 +22,7 @@ import requests
 def get_tree() -> Any:
     sess = requests.Session()
     with sess:
-        resp = sess.get('https://ketqua.net/', timeout=5)
+        resp = sess.get('https://ketqua1.net/', timeout=5)
 
     return BeautifulSoup(resp.text, 'html.parser')
 
