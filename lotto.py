@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """A simple script does two things:
-	1. Crawls lottery results from ketqua.net
+	1. Crawls lottery results from ketqua1.net
 	2. Checks daily lottery as arguments win or not
 	
 	(2 last digit on lottery ticket). 
