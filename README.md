@@ -1,5 +1,5 @@
 # Check Daily Lottery ― Crawler
-Check daily drawings (lottery) from ketqua1.net
+Check daily drawings (lottery 🎟️) from ketqua1.net
 
 ## Table of Contents
 * [General info](#general-info)
@@ -22,11 +22,11 @@ $ python3 lotto.py [NUMBER1] [NUMBER2] [...]
 ```
 
 ## Demo
-``` bash
+```sh
 $ python3 lotto.py
 ```
-Result:
-``` bash
+**Result:**
+```sh
 Xổ số Truyền Thống 
 Thứ bảy ngày 03-07-2021
 
