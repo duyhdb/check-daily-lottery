@@ -16,17 +16,17 @@ Project is created with:
 
 ## Setup
 To run this project, spin up terminal locally:
-```
+``` bash
 $ cd ../lotto
 $ python3 lotto.py [NUMBER1] [NUMBER2] [...]
 ```
 
 ## Demo
-```
+``` bash
 $ python3 lotto.py
 ```
 Result:
-```
+``` bash
 Xổ số Truyền Thống 
 Thứ bảy ngày 03-07-2021
 
